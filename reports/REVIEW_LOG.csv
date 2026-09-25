@@ -1,0 +1,4 @@
+round,frame_id,object,action,rule_or_reason
+1,frame_0099.jpg,xe bị cắt ở mép dưới,added,AI chưa khoanh. Chỉ vẽ phần thân còn nhìn thấy trong ảnh
+1,frame_0099.jpg,xe trên làn đường,edited,Kéo khung ôm sát thân xe kể cả đèn hậu không lấy vệt sáng trên mặt đường
+1,frame_0326.jpg,vệt sáng đèn trên mặt đường,deleted,Ánh đèn bị khoanh nhầm thành xe nên xóa khung
